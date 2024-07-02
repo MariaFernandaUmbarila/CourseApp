@@ -2,4 +2,5 @@
     <string name="app_name">CourseApp</string>
     <string name="titleText">TrikkiApp</string>
     <string name="startGameButton">Start game</string>
+    <string name="restartGameButton">Restart game</string>
 </resources>
